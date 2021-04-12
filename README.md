@@ -10,7 +10,7 @@ npm install
 Then type:
 node app.js 
 
-And open localhost:3000 and enjoy!
+Then open localhost:3000 and enjoy!
 
 You need to install node first in order to open the project!
 
